@@ -4,4 +4,5 @@ puts "Muscle, World"
 greeting = "Hello World"
 puts greeting
 
-m
+greeting = "Hello World"
+puts greeting
